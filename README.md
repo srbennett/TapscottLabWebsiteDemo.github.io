@@ -1,2 +1,2 @@
 # TapscottLabWebsiteDemo
-Tapscott Lab Website Demo
+Mockup of potential Tapscott Lab Website for lab mtg
